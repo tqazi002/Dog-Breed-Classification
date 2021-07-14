@@ -9,7 +9,7 @@ For this analysis, we trained our model only the top 8 dog breeds of our dataset
 
 ![alt text](https://github.com/melsantos/Dog-Breed-Classification/blob/master/img/8db_chart.png "8 Dog Breed Model Training Time Chart")
 
-Unsuprisingly, the models completed training on the GPU much faster than CPU. For a more detail analysis check [here](https://github.com/melsantos/Dog-Breed-Classification/blob/master/report.pdf "Project Report")
+Unsuprisingly, the models completed training on the GPU much faster than CPU. For a more detail analysis check [here](https://github.com/tqazi002/Dog-Breed-Classification/blob/master/report.pdf "Project Report")
 
 ## Credit
  + [TensorFlow Dog Breed Classification Tutorial](https://medium.com/nanonets/how-to-easily-build-a-dog-breed-image-classification-model-2fd214419cde)
